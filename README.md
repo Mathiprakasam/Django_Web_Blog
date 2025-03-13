@@ -25,7 +25,8 @@ Features:
 
 🔗 GitHub Project Code & Details: github.com/Mathiprakasam/Django_Web_Blog.git
 
-🔗  [![Watch the video](https://img.youtube.com/vi/Rn4N122PULU/maxresdefault.jpg)](https://youtu.be/Rn4N122PULU)
+🔗 Checkout My YouTube Video 
+[![Watch the video](https://img.youtube.com/vi/Rn4N122PULU/maxresdefault.jpg)](https://youtu.be/Rn4N122PULU)
 
 
 
