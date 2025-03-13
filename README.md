@@ -25,7 +25,10 @@ The ADM POST blog app enables easy management of blog posts, categorized by topi
 
 🔗 GitHub Project Code & Details: github.com/Mathiprakasam/Django_Web_Blog.git
 
-## 🔗 Checkout My YouTube Video 
+
+
+## 🔗 Checkout My YouTube Video for Preview
+
 [![Watch the video](https://img.youtube.com/vi/Rn4N122PULU/maxresdefault.jpg)](https://youtu.be/Rn4N122PULU)
 
 
